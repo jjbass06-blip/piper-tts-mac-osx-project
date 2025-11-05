@@ -10,7 +10,6 @@ Installing Piper-TTS on Mac OSX Sequoia (MacBook Pro M1)
                       eval "$(pyenv init -)"
 
                     Changes to the ~/.zprofile file will not take effect in the Terminal until you've quit and restarted the terminal. Alternatively (this is easier), you can use the source command to reset the shell environment:
-
-                    $ source ~/.zprofile # Or just restart your terminal
+                     $ source ~/.zprofile # Or just restart your terminal
     6) Install Piper-TTS  via pip:  pip install piper-tts
     
