@@ -17,6 +17,7 @@ Installing Piper-TTS on Mac OSX Sequoia (MacBook Pro M1)
 8) Download voices from https://huggingface.co/rhasspy/piper-voices/tree/main and save them locally on your machine in a sensible place. (I use $User/piper/voices/en/ (then individual voice files folders)
 9) create a plain txt file input. I saved mine in documents
 10) use this command to run piper, read the input file and create a wav file output. Note: You musty specify where the voice files are, where the input file is and where the wav file is output to:
-	piper --model "$HOME/piper/voices/en/Cori/en_GB-cori-high.onnx" --input-file $HOME/Documents/Piper-Test.txt --output-file $HOME/Documents/piperoutput.wav
+    
+					piper --model "$HOME/piper/voices/en/Cori/en_GB-cori-high.onnx" --input-file $HOME/Documents/Piper-Test.txt --output-file $HOME/Documents/piperoutput.wav
 
 
