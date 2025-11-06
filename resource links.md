@@ -10,3 +10,5 @@ Local web interface for Piper-TTS: https://github.com/prossm/basic-web-tts
 
 Piper TTS Training - Google Colab in 2025: https://youtu.be/NV6ru1pYu_U?si=Ulwl5RtT7cOzcwIB
 
+Googler Drive Link for Collab Notebook: https://colab.research.google.com/drive/1-1hXWc1YmiRu0kkeFw5rsGwJ8zQ0ykmZ?usp=sharing
+
